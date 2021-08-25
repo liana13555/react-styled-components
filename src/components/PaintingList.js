@@ -1,4 +1,4 @@
-import Painting from './Painting';
+import Painting from './Painting/Painting';
 import PropTypes from 'prop-types';
 
 function PaintingList({ items }) {
@@ -29,3 +29,5 @@ PaintingList.propTypes = {
 };
 
 export default PaintingList;
+
+// Распыление props  {/* <Painting {...item} /> */}
