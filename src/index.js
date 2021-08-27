@@ -1,5 +1,6 @@
 // import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';
 import App from './App';
 
 // // const elem1 = React.createElement('span', { children: 'Hello' });
